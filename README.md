@@ -71,7 +71,7 @@ Data-Analytics-Portfolio/
 │
 ├── Vendor-Performance-Analysis/
 ├── Retail-Customer-Behaviour-Analysis/
-├── Sales-Performance-Dashboard/
+├── MentalVue-Analysis/
 ├── Inventory-Analytics/
 └── README.md
 ```
@@ -84,11 +84,11 @@ Every project folder in this section includes: the business problem, objectives,
 
 Advanced SQL, Power BI dashboard development, automating parts of the analysis pipeline with Python, and getting deeper into customer, sales, and supply chain analytics.
 
-| Project | Analytics Type | Technologies | Status | Expected Date |
-|---|---|---|---|---|
-| **Telco Customer Churn Prediction** | Descriptive ,Diagnostic,Predictive  | Python, SQL, Power BI,ML models | Ongoing |Aug,2026 | 
-| **HR Attrition & Workforce Planning** | Descriptive,Diagnostic,Predictive,Presciptive | Python, Pandas, Excel, ML models | Ongoing | Sept,2026 |
-| **Fraud Detection** | Diagnostic,Predictive | python,ML models , SQL ,Power BI, DAX | Ongoing | Aug,2026 |
+| Project | Analytics Type | Technologies | Status | Expected Date | Link|
+|---|---|---|---|---|---|
+| **Telco Customer Churn Prediction** | Descriptive ,Diagnostic,Predictive  | Python, SQL, Power BI,ML models | Ongoing |Aug,2026 |[view]()|
+| **HR Attrition & Workforce Planning** | Descriptive,Diagnostic,Predictive,Presciptive | Python, Pandas, Excel, ML models | Ongoing | Sept,2026 |[view]()|
+| **Fraud Detection** | Diagnostic,Predictive | python,ML models , SQL ,Power BI, DAX | Ongoing | Aug,2026 |[view]()|
 
  
 
