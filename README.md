@@ -95,8 +95,3 @@ Open to collaborating on data-driven projects, BI work, or just talking shop abo
 
 <!-- TODO: add email / LinkedIn / portfolio links -->
 
-<div align="center">
-
-If any of this is useful to you, a star on the repo is appreciated.
-
-</div>
