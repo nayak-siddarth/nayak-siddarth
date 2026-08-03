@@ -82,7 +82,7 @@ Every project folder in this section includes: the business problem, objectives,
 
 ## Currently Working On
 
-Advanced SQL, Power BI dashboard development, automating parts of the analysis pipeline with Python, and getting deeper into customer, sales, and supply chain analytics.
+Advanced SQL, Power BI dashboard development, automating parts of the analysis pipeline with Python, and getting deeper into customer behaviour, sales, and supply chain analytics and diagnostic analytics.
 
 | Project | Analytics Type | Technologies | Status | Expected Date | Link|
 |---|---|---|---|---|---|
