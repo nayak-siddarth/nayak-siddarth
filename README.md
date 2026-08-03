@@ -86,8 +86,7 @@ Every project folder in this section includes: the business problem, objectives,
 Advanced SQL, Power BI dashboard development, automating parts of the analysis pipeline with Python, and getting deeper into customer, sales, and supply chain analytics.
 
 ## Coming Up
-
-Financial analytics, HR analytics, marketing analytics, predictive analytics, time series forecasting, and customer churn analysis.
+Learning and applying advanced ML models in existing and upcoming data analytics projects.
 
 </details>
 
