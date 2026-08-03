@@ -86,9 +86,9 @@ Advanced SQL, Power BI dashboard development, automating parts of the analysis p
 
 | Project | Analytics Type | Technologies | Status | Expected Date |
 |---|---|---|---|---|
-| **Telco Customer Churn Prediction** |  | Python, SQL, Power BI | Ongoing | | 
-| **HR Attrition & Workforce Planning** |  | Python, Pandas, Excel | Ongoing |  |
-| **Fraud Detection** |  | Power BI, DAX | Ongoing |  |
+| **Telco Customer Churn Prediction** |  | Python, SQL, Power BI,ML models | Ongoing | | 
+| **HR Attrition & Workforce Planning** |  | Python, Pandas, Excel, ML models | Ongoing |  |
+| **Fraud Detection** |  | python,ML models , SQL ,Power BI, DAX | Ongoing |  |
 
  
 
