@@ -85,6 +85,14 @@ Every project folder in this section includes: the business problem, objectives,
 
 Advanced SQL, Power BI dashboard development, automating parts of the analysis pipeline with Python, and getting deeper into customer, sales, and supply chain analytics.
 
+| Project | Analytics Type | Technologies | Status |
+|---|---|---|---|
+| **Vendor Performance Analysis** | Business Analytics | Python, SQL, Power BI | Completed |
+| **Retail Customer Behaviour Analysis** | Customer Analytics | Python, Pandas, Excel | Completed |
+| **Sales Performance Dashboard** | Dashboard Analytics | Power BI, DAX | Completed |
+| **Inventory Analytics** | Operational Analytics | SQL, Excel | Ongoing |
+ 
+
 ## Coming Up
 Learning and applying advanced ML models in existing and upcoming data analytics projects.
 
