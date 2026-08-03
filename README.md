@@ -11,11 +11,7 @@
 
 </div>
 
----
 
-This repository holds my project portfolios, organized by domain. Click a section below to expand it — Data Analytics is open by default since that's my current focus, but the others will fill in as I add that work.
-
----
 
 <details open>
 <summary><b>Data Analytics Portfolio</b></summary>
@@ -94,54 +90,6 @@ Advanced SQL, Power BI dashboard development, automating parts of the analysis p
 Financial analytics, HR analytics, marketing analytics, predictive analytics, time series forecasting, and customer churn analysis.
 
 </details>
-
----
-
-<details>
-<summary><b>Software Development Portfolio</b></summary>
-
-<br>
-
-<!-- TODO: add Software Development content here -->
-
-</details>
-
----
-
-<details>
-<summary><b>AI Engineering Portfolio</b></summary>
-
-<br>
-
-<!-- TODO: add AI Engineering content here -->
-
-</details>
-
----
-
-<details>
-<summary><b>ML Engineering Portfolio</b></summary>
-
-<br>
-
-<!-- TODO: add ML Engineering content here -->
-
-</details>
-
----
-
-<details>
-<summary><b>Data Science Portfolio</b></summary>
-
-<br>
-
-<!-- TODO: add Data Science content here -->
-
-</details>
-
----
-
-## Contact
 
 Open to collaborating on data-driven projects, BI work, or just talking shop about analytics.
 
