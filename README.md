@@ -90,7 +90,5 @@ Learning and applying advanced ML models in existing and upcoming data analytics
 
 </details>
 
-Open to collaborating on data-driven projects, BI work, or just talking shop about analytics.
 
-<!-- TODO: add email / LinkedIn / portfolio links -->
 
