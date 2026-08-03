@@ -60,9 +60,9 @@ Roughly the same process every time, whether the dataset is messy vendor invoice
 
 | Project | Analytics Type | Technologies | Status | Link |
 |---|---|---|---|---|
-| **Vendor Performance Analysis** | Business Analytics | Python, SQL, Power BI | Completed | [view]() |
-| **Retail Customer Behaviour Analysis** | Customer Analytics | Python, Pandas, Excel | Completed | [view]()|
-| **Sales Performance Dashboard** | Dashboard Analytics | Power BI, DAX | Completed | [view]() |
+| **Vendor Performance Analysis** | Business Analytics | Python, SQL, Power BI | Completed | [view](https://github.com/nayak-siddarth/vendor-performance-analysis) |
+| **Retail Customer Behaviour Analysis** | Customer Analytics | Python, Pandas, Excel | Completed | [view](https://github.com/nayak-siddarth/retail-customer-behaviour-analysis)|
+| **Mental Vue Analysis** | Dashboard Analytics | Power BI, DAX | Completed | [view](https://github.com/nayak-siddarth/mentalvue-analysis) |
 
 ## Repository Structure
 
