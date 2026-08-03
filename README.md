@@ -60,10 +60,9 @@ Roughly the same process every time, whether the dataset is messy vendor invoice
 
 | Project | Analytics Type | Technologies | Status | Link |
 |---|---|---|---|---|
-| **Vendor Performance Analysis** | Business Analytics | Python, SQL, Power BI | Completed |
-| **Retail Customer Behaviour Analysis** | Customer Analytics | Python, Pandas, Excel | Completed |
-| **Sales Performance Dashboard** | Dashboard Analytics | Power BI, DAX | Completed |
-| **Inventory Analytics** | Operational Analytics | SQL, Excel | Ongoing |
+| **Vendor Performance Analysis** | Business Analytics | Python, SQL, Power BI | Completed | [view]() |
+| **Retail Customer Behaviour Analysis** | Customer Analytics | Python, Pandas, Excel | Completed | [view]()|
+| **Sales Performance Dashboard** | Dashboard Analytics | Power BI, DAX | Completed | [view]() |
 
 ## Repository Structure
 
