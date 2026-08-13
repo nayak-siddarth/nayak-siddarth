@@ -60,6 +60,7 @@ Roughly the same process every time, whether the dataset is messy vendor invoice
 
 | Project | Analytics Type | Technologies | Status | Link |
 |---|---|---|---|---|
+| **Telco Customer Churn Prediction** | Descriptive ,Diagnostic,Predictive  | Python, SQL, Power BI,ML models | Completed |[view]()|
 | **Vendor Performance Analysis** | Business Analytics | Python, SQL, Power BI | Completed | [view](https://github.com/nayak-siddarth/vendor-performance-analysis) |
 | **Retail Customer Behaviour Analysis** | Customer Analytics | Python, Pandas, Excel | Completed | [view](https://github.com/nayak-siddarth/retail-customer-behaviour-analysis)|
 | **Mental Vue Analysis** | Dashboard Analytics | Power BI, DAX | Completed | [view](https://github.com/nayak-siddarth/mentalvue-analysis) |
@@ -86,7 +87,6 @@ Advanced SQL, Power BI dashboard development, automating parts of the analysis p
 
 | Project | Analytics Type | Technologies | Status | Expected Date | Link|
 |---|---|---|---|---|---|
-| **Telco Customer Churn Prediction** | Descriptive ,Diagnostic,Predictive  | Python, SQL, Power BI,ML models | Ongoing |Aug,2026 |[view]()|
 | **HR Attrition & Workforce Planning** | Descriptive,Diagnostic,Predictive,Presciptive | Python, Pandas, Excel, ML models | Ongoing | Sept,2026 |[view]()|
 | **Fraud Detection** | Diagnostic,Predictive | python,ML models , SQL ,Power BI, DAX | Ongoing | Aug,2026 |[view]()|
 
